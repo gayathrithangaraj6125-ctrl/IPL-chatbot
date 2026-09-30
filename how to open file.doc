@@ -1,0 +1,25 @@
+Tomorrow — how to open it again
+
+Open Anaconda Prompt and type:
+
+conda activate ipc_chatbot
+
+Then:
+
+cd C:\Users\stgrj\Documents\IPC_Chatbot
+
+Then:
+
+streamlit run app.py
+
+It will start your IPC Legal Assistant chatbot again. 🎉
+
+The browser may automatically open. If it doesn't, Anaconda Prompt will show a local address such as:
+
+http://localhost:8501
+
+Open that in Chrome.
+
+Important: You don't need to recreate the environment, install packages, or create the dataset again tomorrow. Everything you've already set up remains on your computer.
+
+Go sleep peacefully 😄🌙 — your project is saved.
